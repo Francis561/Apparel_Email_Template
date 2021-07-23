@@ -1,0 +1,14 @@
+
+ /*hosted images used in the folder*/
+ 
+https://i.ibb.co/TcMdbQH/accessories.jpg
+https://i.ibb.co/vkPCnwy/apparel-white.png
+https://i.ibb.co/VQ3g0zd/apparel.png
+https://i.ibb.co/WHrgY6n/banner.jpg
+https://i.ibb.co/MDc225L/black-jeans.jpg
+https://i.ibb.co/cJF4RvY/blue-jeans.jpg
+https://i.ibb.co/8YX316N/men.jpg
+https://i.ibb.co/5Rk8b3y/t-black.jpg
+https://i.ibb.co/tPmgm20/t-gray.jpg
+https://i.ibb.co/g3jcV4B/t-white.jpg
+https://i.ibb.co/2yGZgxv/women.jpg
